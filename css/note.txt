@@ -1,0 +1,4 @@
+transform jo hota hai vo rotate main top left corner se start karta hai 
+transform origin top se space left se value leke origin shift kar deta hai
+
+skew center ke about skew karta hai 
